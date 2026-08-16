@@ -1,0 +1,23 @@
+# Build dirs
+build/
+out/
+*.dir/
+
+# Qt
+*.o
+*.obj
+*.user
+*.user.*
+mocs_*
+qrc_*
+ui_*
+
+# IDE
+.vscode/
+.idea/
+*.pro.user
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
